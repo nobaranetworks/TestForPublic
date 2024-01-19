@@ -1,3 +1,3 @@
 # TestForPublic
 
-This is Test for Public
+Test for public repository
