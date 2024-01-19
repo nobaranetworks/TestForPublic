@@ -1,4 +1,3 @@
 # TestForPublic
 
-add line
-add second line
+This is Test for Public
